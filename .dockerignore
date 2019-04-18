@@ -1,0 +1,12 @@
+.env
+node_modules/
+db/
+LICENSE
+README.md
+.gitignore
+.git/
+api.env
+.travis.yml
+docker/
+npm-debug
+package.sublime-workspace
